@@ -1,1 +1,1 @@
-# odin-recipes
+This is a practice for git,github and htlm making. Odin prooject# odin-recipes
